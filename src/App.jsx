@@ -9,7 +9,6 @@ const App = () => {
         <Background />
         <Foreground/>
       </div>
-    
     </>
   )
 }
